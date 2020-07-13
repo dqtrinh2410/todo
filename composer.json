@@ -1,0 +1,17 @@
+{  
+    "name": "admin/mvc",
+    "type": "library",
+    "description": "Autoload class in project",
+    "authors": [
+        {
+            "name": "trinhdq",
+            "email": "trinhdq2410@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+           "AHT\\": ""
+        }
+    },
+    "require": {}
+}
